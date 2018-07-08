@@ -673,6 +673,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/thermos/thermosportfolio.png");
+    background-repeat: repeat;
 
 }
 #flowbanner {
@@ -687,6 +688,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/cogs120/daytodaybanner.png");
+    background-repeat: repeat;
 
 }
 #third{
