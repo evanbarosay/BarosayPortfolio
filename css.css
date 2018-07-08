@@ -13,7 +13,7 @@
    Start of custom Webflow CSS
    ========================================================================== */
 body {
-  font-family: Quicksand, serif;
+  font-family: Quicksand, Muli, serif;
   color: #333;
   font-size: 14px;
   line-height: 20px;
@@ -28,7 +28,7 @@ h1 {
 
 h2 {
   margin: 10px 0px;
-  font-family: Quicksand, sans-serif;
+  font-family: Quicksand, Muli,  sans-serif;
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
@@ -659,7 +659,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/hark/harkbanner.png");
-    background-repeat: no-repeat;
+    background-repeat:repeat;
 
 }
 #audreysbanner {
@@ -667,7 +667,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/audreys/audreysbanner.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 
 }
 #thermosportfolio {
@@ -675,7 +675,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/thermos/thermosportfolio.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 
 }
 #flowbanner {
@@ -683,7 +683,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/flow/flowbanner.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 
 }
 #daytodaybanner {
@@ -691,7 +691,7 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/cogs120/daytodaybanner.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 
 }
 #third{
