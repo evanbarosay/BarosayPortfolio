@@ -659,7 +659,6 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/hark/harkbanner.png");
-    background-repeat:repeat;
 
 }
 #audreysbanner {
@@ -667,7 +666,6 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/audreys/audreysbanner.png");
-    background-repeat: repeat;
 
 }
 #thermosportfolio {
@@ -675,7 +673,6 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/thermos/thermosportfolio.png");
-    background-repeat: repeat;
 
 }
 #flowbanner {
@@ -683,7 +680,6 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/flow/flowbanner.png");
-    background-repeat: repeat;
 
 }
 #daytodaybanner {
@@ -691,7 +687,6 @@ margin-right: 30%
     float: left;
     height: 350px;
     background-image: url("extras/cogs120/daytodaybanner.png");
-    background-repeat: repeat;
 
 }
 #third{
