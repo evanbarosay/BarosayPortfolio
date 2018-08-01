@@ -654,6 +654,14 @@ margin-right: 30%
 
 
 }
+#dlabbanner {
+    width: 100%;
+    float: left;
+    height: 350px;
+    background-image: url("extras/dlab.jpg");
+
+
+}
 #harkbanner {
     width: 100%;
     float: left;
@@ -716,6 +724,14 @@ margin-right: 30%
   float: left;
   height: 350px;
   background-color: #FACBAE;
+  opacity: 50;
+
+}
+#dlab{
+  width: 100%;
+  float: left;
+  height: 350px;
+  background-color: #6d99e2;
   opacity: 50;
 
 }
